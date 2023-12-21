@@ -1,0 +1,12 @@
+{
+  "name": "@ameganix/sleep",
+  "version": "1.0.2",
+  "description": "Interrupts execution for the specified number of ms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sleep"],
+  "author": "Kuziukov Aleksei",
+  "license": "ISC"
+}
